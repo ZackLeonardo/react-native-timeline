@@ -16,9 +16,9 @@ yarn add file:/...path.../react-native-timeline
 Check full example in the `Example` folder.
 
 ## Demo
-![Demo](https://github.com/ZackLeonardo/react-native-timeline/blob/master/column%20timeline.png)
+![Demo](https://github.com/ZackLeonardo/react-native-timeline/blob/master/example/column%20timeline.png)
 
-![Demo](https://github.com/ZackLeonardo/react-native-timeline/blob/master/row%20timeline.png)
+![Demo](https://github.com/ZackLeonardo/react-native-timeline/blob/master/example/row%20timeline.png)
 
 ## License
 
