@@ -1,0 +1,7 @@
+{
+  "name": "@zdy/react-native-timeline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ZackLeonardo <maiz9088@icloud.com>",
+  "license": "MIT"
+}
